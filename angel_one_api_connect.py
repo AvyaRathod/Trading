@@ -16,10 +16,10 @@ def time_delay(time_delay_val):
 
 class login:
     def __init__(self):
-        self.__client_id = "A50876433"
-        self.__pwd = "1406"
-        self.__api = "mSYvrNuR"
-        self.__token = "Z2D573OIJ2PDHCKD66NMIRVGWY"
+        self.__client_id = ""
+        self.__pwd = ""
+        self.__api = ""
+        self.__token = ""
         self.obj = None
 
     def Login(self):
